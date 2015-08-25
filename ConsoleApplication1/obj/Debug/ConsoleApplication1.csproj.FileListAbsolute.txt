@@ -1,0 +1,2 @@
+c:\users\ramses\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ramses\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Learning-CSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
