@@ -8,9 +8,13 @@ namespace ConsoleApplication1
 {
     class Program
     {
+
+        int thing, stuff, whatnot;
         static void Main(string[] args)
         {
             // Gonna do stuff here
+
+
         }
     }
 }
